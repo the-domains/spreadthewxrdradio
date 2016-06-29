@@ -82,8 +82,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/channel/UCaGsgjXE-PJYUyrSZGA6RPw'
 title: Righteous Minds
-datePublished: '2016-06-29T11:35:56.804Z'
-dateModified: '2016-06-29T11:27:54.210Z'
+datePublished: '2016-06-29T11:35:59.135Z'
+dateModified: '2016-06-29T11:35:47.474Z'
 starred: false
 sourcePath: _posts/2016-06-29-righteous-minds.md
 inFeed: true
