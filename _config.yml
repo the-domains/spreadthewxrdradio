@@ -1,0 +1,14 @@
+layout_spectrum: 0.9132024203427136
+typography_spectrum: 0.07934907451272011
+color:
+  brandStrength: 0.8542718049138784
+  lightness: 0.3892228752374649
+  saturation: 0.8931106738746166
+  rhythmicContrast: 0.6446179223712534
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: SpreadTheWxrdRadio
