@@ -1,16 +1,16 @@
-typography_spectrum: 0.07934907451272011
+typography_spectrum: 0.6329558664001524
 color:
-  brandStrength: 0.8542718049138784
-  lightness: 0.3892228752374649
-  saturation: 0.8931106738746166
-  rhythmicContrast: 0.6446179223712534
+  brandStrength: 0.25346923363395035
+  lightness: 0.12547002732753754
+  saturation: 0.07322071143426001
+  rhythmicContrast: 0.040927628288045526
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-layout_spectrum: 0.9132024203427136
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+layout_spectrum: 0.6108449927996844
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bd92b73-82da-4c3c-8c44-c08b40ce1729.jpg
 name: SpreadTheWxrdRadio
