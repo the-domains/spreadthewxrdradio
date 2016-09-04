@@ -23,16 +23,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/deadphonedummiez/'
 title: Dead Phone Zone (@deadphonedummiez) * Instagram photos and videos
-datePublished: '2016-06-29T11:35:52.060Z'
-dateModified: '2016-06-29T11:28:16.847Z'
+datePublished: '2016-09-01T17:41:02.992Z'
+dateModified: '2016-09-01T17:41:02.084Z'
 description: ''
-starred: false
 sourcePath: _posts/2016-06-29-dead-phone-zone-deadphonedummiez-instagram-photos-and-v.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: dead-phone-zone-deadphonedummiez-instagram-photos-and-v/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
