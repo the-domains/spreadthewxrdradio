@@ -10,8 +10,10 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
+opengraph:
+  type: 'https://www.facebook.com/RighteousMindsRecords/'
 layout_spectrum: 0.6108449927996844
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bd92b73-82da-4c3c-8c44-c08b40ce1729.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7eeff93-3fcf-40bf-8812-71368dbe58d9.jpg
 name: Dead Phone Zone
 title: DPDGAF
